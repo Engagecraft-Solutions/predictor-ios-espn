@@ -1,0 +1,154 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2.3 effective-5.10 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
+// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -module-name predictor -package-name predictor
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.3
+import Combine
+import CoreAudio
+import DeveloperToolsSupport
+import Foundation
+import Foundation/*.Bundle*/
+import Foundation/*.ProcessInfo*/
+import Foundation/*.URL*/
+import GamesLib
+import Kingfisher
+import Photos
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@objc @_inheritsConvenienceInitializers @objcMembers @_Concurrency.MainActor @preconcurrency public class FeaturedCard : UIKit.UIViewController, GamesLib.CompetitionGameCard {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc(viewControllerWithData:gameId:competition:) @_Concurrency.MainActor @preconcurrency public class func viewController(data: [Swift.String : Any], gameId: Swift.String, competition: Swift.Int) -> UIKit.UIViewController?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
+  @objc deinit
+}
+extension predictor.FeaturedCard : GamesLib.GameCard {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public class func viewController(data: [Swift.String : Any]?) -> UIKit.UIViewController?
+  #endif
+}
+@_Concurrency.MainActor @preconcurrency public struct FeaturedCardSwiftUI : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency public init(data: [Swift.String : Any]? = nil, gameId: Swift.String? = nil, competition: Swift.Int? = nil, cardData: Swift.String? = nil, width: CoreFoundation.CGFloat = 320)
+  #endif
+  public typealias Body = @_opaqueReturnTypeOf("$s9predictor19FeaturedCardSwiftUIV4bodyQrvp", 0) __
+}
+@_Concurrency.MainActor @preconcurrency public struct FeaturedCardBody : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s9predictor16FeaturedCardBodyV4bodyQrvp", 0) __
+}
+@objc @_inheritsConvenienceInitializers @objcMembers @_Concurrency.MainActor @preconcurrency public class Game : UIKit.UIViewController, GamesLib.CompetitionGameCard {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc(viewControllerWithData:gameId:competition:) @_Concurrency.MainActor @preconcurrency public class func viewController(data: [Swift.String : Any], gameId: Swift.String, competition: Swift.Int) -> UIKit.UIViewController?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
+  @objc deinit
+}
+extension predictor.Game : GamesLib.GameCard {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public class func viewController(data: [Swift.String : Any]?) -> UIKit.UIViewController?
+  #endif
+}
+
+
+extension UIKit.UIPickerView {
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic open var intrinsicContentSize: CoreFoundation.CGSize {
+    @objc get
+  }
+}
+@_Concurrency.MainActor @preconcurrency public struct ViewVisibilityModifier : SwiftUICore.ViewModifier {
+  @_Concurrency.MainActor @preconcurrency public func body(content: predictor.ViewVisibilityModifier.Content) -> some SwiftUICore.View
+  
+  public struct ViewVisibleKey : SwiftUICore.PreferenceKey {
+    public static var defaultValue: Swift.Bool
+    public static func reduce(value: inout Swift.Bool, nextValue: () -> Swift.Bool)
+    public typealias Value = Swift.Bool
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s9predictor22ViewVisibilityModifierV4body7contentQr7SwiftUI01_bD8_ContentVyACG_tF", 0) __
+}
+extension SwiftUICore.View {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency public func onViewVisibilityChange(_ debugInfo: Swift.String = "", singleTime: Swift.Bool = false, action: ((Swift.Bool) -> Swift.Void)? = nil) -> some SwiftUICore.View
+  
+  #endif
+}
+@_Concurrency.MainActor @preconcurrency public struct GameActivityIndicatorView : SwiftUI.UIViewRepresentable {
+  @SwiftUICore.Binding @_projectedValueProperty($value) @_Concurrency.MainActor @preconcurrency public var value: Swift.Bool {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    nonmutating set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    nonmutating _modify
+  }
+  @_Concurrency.MainActor @preconcurrency public var $value: SwiftUICore.Binding<Swift.Bool> {
+    get
+  }
+  @_Concurrency.MainActor @preconcurrency public init(_ value: SwiftUICore.Binding<Swift.Bool>, style: UIKit.UIActivityIndicatorView.Style = .large, color: UIKit.UIColor = .gray)
+  @_Concurrency.MainActor @preconcurrency public func makeUIView(context: predictor.GameActivityIndicatorView.Context) -> UIKit.UIActivityIndicatorView
+  @_Concurrency.MainActor @preconcurrency public func updateUIView(_ uiView: UIKit.UIActivityIndicatorView, context: predictor.GameActivityIndicatorView.Context)
+  public typealias Body = Swift.Never
+  public typealias Coordinator = Swift.Void
+  public typealias UIViewType = UIKit.UIActivityIndicatorView
+}
+extension SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public func gameOnNotification(_ notificationName: Foundation.Notification.Name, perform action: @escaping () -> Swift.Void) -> some SwiftUICore.View
+  
+  @_Concurrency.MainActor @preconcurrency public func gameOnLoggedIn(perform action: @escaping () -> Swift.Void) -> some SwiftUICore.View
+  
+  @_Concurrency.MainActor @preconcurrency public func gameOnLoggedOut(perform action: @escaping () -> Swift.Void) -> some SwiftUICore.View
+  
+}
+@_Concurrency.MainActor @preconcurrency public struct MMActivityIndicatorView : SwiftUI.UIViewRepresentable {
+  @SwiftUICore.Binding @_projectedValueProperty($value) @_Concurrency.MainActor @preconcurrency public var value: Swift.Bool {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    nonmutating set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    nonmutating _modify
+  }
+  @_Concurrency.MainActor @preconcurrency public var $value: SwiftUICore.Binding<Swift.Bool> {
+    get
+  }
+  @_Concurrency.MainActor @preconcurrency public init(_ value: SwiftUICore.Binding<Swift.Bool>, style: UIKit.UIActivityIndicatorView.Style = .large, color: UIKit.UIColor)
+  @_Concurrency.MainActor @preconcurrency public func makeUIView(context: predictor.MMActivityIndicatorView.Context) -> UIKit.UIActivityIndicatorView
+  @_Concurrency.MainActor @preconcurrency public func updateUIView(_ uiView: UIKit.UIActivityIndicatorView, context: predictor.MMActivityIndicatorView.Context)
+  public typealias Body = Swift.Never
+  public typealias Coordinator = Swift.Void
+  public typealias UIViewType = UIKit.UIActivityIndicatorView
+}
+@_Concurrency.MainActor @preconcurrency public struct MatchPredictorFeaturedCardStatePreviews : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  @_Concurrency.MainActor @preconcurrency public init()
+  public typealias Body = @_opaqueReturnTypeOf("$s9predictor39MatchPredictorFeaturedCardStatePreviewsV4bodyQrvp", 0) __
+}
+extension UIKit.UIWindow {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency public func gameVisibleViewController() -> UIKit.UIViewController?
+  #endif
+}
+extension predictor.FeaturedCardSwiftUI : Swift.Sendable {}
+extension predictor.FeaturedCardBody : Swift.Sendable {}
+extension predictor.ViewVisibilityModifier : Swift.Sendable {}
+extension predictor.GameActivityIndicatorView : Swift.Sendable {}
+extension predictor.MMActivityIndicatorView : Swift.Sendable {}
+extension predictor.MatchPredictorFeaturedCardStatePreviews : Swift.Sendable {}

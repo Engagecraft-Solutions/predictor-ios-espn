@@ -1,0 +1,4 @@
+module predictor {
+header "predictor-Swift.h"
+export *
+}

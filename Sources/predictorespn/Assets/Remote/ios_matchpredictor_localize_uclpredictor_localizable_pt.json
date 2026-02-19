@@ -1,0 +1,22 @@
+{
+  "data" : [
+    {
+      "name" : "ios_matchpredictor_localize_uclpredictor_localizable_pt",
+      "version" : "1",
+      "parameters" : {
+        "No first goalscorer" : "Sem primeiro autor de golo",
+        "Match Predictor" : "Adivinhe Seis da Champions League",
+        "Predict every Champions League result – how many will you get right?" : "Preveja resultados da Champions League - em quantos vai acertar?",
+        "Predictor" : "Adivinhe Seis",
+        "Defenders" : "Defesas",
+        "It's been an amazing season - come back in September to start afresh!" : "Foi uma época incrível - regresse em Setembro para começar de novo!",
+        "Check out my predictions. Share pre-matchday" : "Confira os meus prognósticos para {MD}. Pensa que pode fazer melhor? Faça os seus prognósticos para jogos da Champions League! #UCLpredictsix",
+        "Midfielders" : "Médios",
+        "This season, predict Champions League results – and climb the leaderboards!" : "Esta época, preveja os resultados da Champions League e suba nas classificações!",
+        "Forwards" : "Avançados",
+        "Check out my predictions. Share post-matchday" : "Confira minha pontuação no Adivinhe Seis para {MD} na Champions League! Pensa que pode fazer melhor? Faça já os seus prognósticos! #UCLpredictsix",
+        "Goalkeepers" : "Guarda-redes"
+      }
+    }
+  ]
+}

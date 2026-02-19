@@ -1,0 +1,22 @@
+{
+  "data" : [
+    {
+      "name" : "ios_matchpredictor_localize_uclpredictor_localizable_fr",
+      "version" : "1",
+      "parameters" : {
+        "No first goalscorer" : "Pas de premier buteur",
+        "Match Predictor" : "Pronos 6 Champions League",
+        "Predict every Champions League result – how many will you get right?" : "Pronostiquez les résultats de la Champions League. Combien en aurez-vous de juste?",
+        "Predictor" : "Pronos 6",
+        "Defenders" : "Défenseurs",
+        "It's been an amazing season - come back in September to start afresh!" : "Cette saison a été extraordinaire, revenez en septembre et on remet ça!",
+        "Check out my predictions. Share pre-matchday" : "Regarde mes pronostics pour {MD}! Tu fais mieux?  Prouve-le 😀 #UCLpronos6",
+        "Midfielders" : "Milieux",
+        "This season, predict Champions League results – and climb the leaderboards!" : "Cette saison, pronostiquez les résultats de la Ligue des champions et grimpez dans les classements!",
+        "Forwards" : "Attaquants",
+        "Check out my predictions. Share post-matchday" : "Regarde mon score à Pronos 6 pour {MD}. Tu fais mieux? Lance-toi et prouve-le 😀 #UCLpronos6",
+        "Goalkeepers" : "Gardiens"
+      }
+    }
+  ]
+}

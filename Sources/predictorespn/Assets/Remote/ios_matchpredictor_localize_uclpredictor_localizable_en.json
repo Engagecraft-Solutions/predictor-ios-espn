@@ -1,0 +1,22 @@
+{
+  "data" : [
+    {
+      "name" : "ios_matchpredictor_localize_uclpredictor_localizable_en",
+      "version" : "1",
+      "parameters" : {
+        "No first goalscorer" : "No first goalscorer",
+        "Match Predictor" : "Champions League Predict Six",
+        "Predict every Champions League result – how many will you get right?" : "Predict Champions League results – how many will you get right?",
+        "Predictor" : "Predict Six",
+        "Defenders" : "Defenders",
+        "It's been an amazing season - come back in September to start afresh!" : "It's been an amazing season – come back in September to start afresh!",
+        "Check out my predictions. Share pre-matchday" : "Check out my predictions for {MD}. Think you can do better? Predict Champions League results and let’s find out! #UCLpredictsix",
+        "Midfielders" : "Midfielders",
+        "This season, predict Champions League results – and climb the leaderboards!" : "This season, predict Champions League results – and climb the leaderboards!",
+        "Forwards" : "Forwards",
+        "Check out my predictions. Share post-matchday" : "Check out my Predict Six score for {MD} in the Champions League! Think you can do better? Start predicting now and let’s find out! #UCLpredictsix",
+        "Goalkeepers" : "Goalkeepers"
+      }
+    }
+  ]
+}

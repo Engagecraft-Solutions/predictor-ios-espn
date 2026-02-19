@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "pitchShadowTwo.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

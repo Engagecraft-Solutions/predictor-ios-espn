@@ -1,0 +1,20 @@
+"This season, predict Champions League results – and climb the leaderboards!" = "This season, predict Champions League results – and climb the leaderboards!";
+"Forwards" = "Forwards";
+"Midfielders" = "Midfielders";
+"Defenders" = "Defenders";
+"Goalkeepers" = "Goalkeepers";
+"No first goalscorer" = "No first goalscorer";
+/* 
+  Localizable.strings
+  Pods
+
+  Created by Aurimas Petrevicius on 2022-02-08.
+  
+*/
+
+"Predict every Champions League result – how many will you get right?" = "Predict Champions League results – how many will you get right?";
+"Check out my predictions. Share pre-matchday" = "Check out my predictions for {MD}. Think you can do better? Predict Champions League results and let’s find out! #UCLpredictsix";
+"Check out my predictions. Share post-matchday" = "Check out my Predict Six score for {MD} in the Champions League! Think you can do better? Start predicting now and let’s find out! #UCLpredictsix";
+"It's been an amazing season - come back in September to start afresh!" = "It's been an amazing season – come back in September to start afresh!";
+"Match Predictor" = "Champions League Predict Six";
+"Predictor" = "Predict Six";
