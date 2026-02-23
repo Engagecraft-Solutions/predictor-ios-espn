@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Engagecraft-Solutions/gaming-core-ios-espn",
       "state" : {
-        "revision" : "e4b37ba8eabfbbf8a937c55afe34ca102fb9cfad",
-        "version" : "1.0.0"
+        "revision" : "328e9cc714b035c0063ea6334980b45020f168e7",
+        "version" : "1.0.1"
       }
     },
     {
