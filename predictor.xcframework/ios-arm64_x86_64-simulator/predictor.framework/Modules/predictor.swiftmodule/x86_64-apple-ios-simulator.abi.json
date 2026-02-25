@@ -8477,14 +8477,21 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/PodBundle.swift",
       "kind": "StringLiteral",
-      "offset": 296,
-      "length": 21,
-      "value": "\"predictor_predictor\""
+      "offset": 530,
+      "length": 31,
+      "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/PodBundle.swift",
       "kind": "StringLiteral",
-      "offset": 334,
+      "offset": 550,
+      "length": 10,
+      "value": "\"_predictor\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/PodBundle.swift",
+      "kind": "StringLiteral",
+      "offset": 578,
       "length": 8,
       "value": "\"bundle\""
     },
