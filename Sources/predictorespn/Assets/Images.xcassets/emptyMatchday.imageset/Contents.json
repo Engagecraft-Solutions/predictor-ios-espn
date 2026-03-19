@@ -1,17 +1,14 @@
 {
   "images" : [
     {
-      "filename" : "emptyMatchday.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "emptyMatchday@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "emptyMatchday@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

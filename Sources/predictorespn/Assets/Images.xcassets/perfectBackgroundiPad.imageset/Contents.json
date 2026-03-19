@@ -1,17 +1,14 @@
 {
   "images" : [
     {
-      "filename" : "perfectBackgroundiPad.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "perfectBackgroundiPad@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "perfectBackgroundiPad@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

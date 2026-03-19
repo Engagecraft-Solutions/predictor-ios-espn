@@ -1,19 +1,8 @@
 {
   "images" : [
     {
-      "filename" : "matchcardBackground.png",
-      "idiom" : "universal",
-      "scale" : "1x"
-    },
-    {
-      "filename" : "matchcardBackground@2x.png",
-      "idiom" : "universal",
-      "scale" : "2x"
-    },
-    {
-      "filename" : "matchcardBackground@3x.png",
-      "idiom" : "universal",
-      "scale" : "3x"
+      "filename" : "matchcardBackground.svg",
+      "idiom" : "universal"
     }
   ],
   "info" : {

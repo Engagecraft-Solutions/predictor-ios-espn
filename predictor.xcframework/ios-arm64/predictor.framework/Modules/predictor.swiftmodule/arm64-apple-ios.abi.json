@@ -4213,6 +4213,23 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "predictor",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "predictor"
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -5218,6 +5235,13 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "GamesLib",
+        "printedName": "GamesLib",
+        "declKind": "Import",
+        "moduleName": "predictor"
       },
       {
         "kind": "Import",
@@ -6489,21 +6513,21 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/GameManager\/NavigationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2539,
+      "offset": 2557,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/GameManager\/NavigationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2647,
+      "offset": 2665,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/GameManager\/NavigationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2696,
+      "offset": 2714,
       "length": 4,
       "value": "true"
     },
@@ -6538,7 +6562,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/GameManager\/NavigationManagerStylingExtension.swift",
       "kind": "BooleanLiteral",
-      "offset": 1954,
+      "offset": 2049,
       "length": 4,
       "value": "true"
     },
@@ -6692,7 +6716,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/LeaugesTab\/Leaderboards\/LeaderboardScreen.swift",
       "kind": "StringLiteral",
-      "offset": 6147,
+      "offset": 6185,
       "length": 9,
       "value": "\"Overall\""
     },
@@ -6727,7 +6751,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/LeaugesTab\/Leaderboards\/ManageLeaderboard\/ManageLeaderboardScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 6382,
+      "offset": 6420,
       "length": 5,
       "value": "false"
     },
@@ -7210,49 +7234,49 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 16122,
+      "offset": 16169,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17366,
+      "offset": 17413,
       "length": 25,
       "value": "\"GhPredictorPredictMatch\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17455,
+      "offset": 17502,
       "length": 30,
       "value": "\"GhPredictorEventKeypadClosed\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17548,
+      "offset": 17595,
       "length": 29,
       "value": "\"GhPredictorEventsListOpened\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17766,
+      "offset": 17813,
       "length": 23,
       "value": "\"GhPredictorOpenEvents\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17974,
+      "offset": 18021,
       "length": 31,
       "value": "\"GhPredictorAdvanceToNextEvent\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 18190,
+      "offset": 18237,
       "length": 35,
       "value": "\"GhPredictorEventsListCloseRequest\""
     },
@@ -7798,7 +7822,35 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Root\/PredictorRootNavigationController.swift",
       "kind": "BooleanLiteral",
-      "offset": 550,
+      "offset": 318,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Root\/PredictorRootNavigationController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 368,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Root\/PredictorRootNavigationController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 435,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Root\/PredictorRootNavigationController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 494,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Root\/PredictorRootNavigationController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 785,
       "length": 4,
       "value": "true"
     },
@@ -7875,28 +7927,28 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Tutorial\/TutorialView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8957,
+      "offset": 9051,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Tutorial\/TutorialView.swift",
       "kind": "StringLiteral",
-      "offset": 8967,
+      "offset": 9061,
       "length": 7,
       "value": "\"title\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Tutorial\/TutorialView.swift",
       "kind": "StringLiteral",
-      "offset": 8985,
+      "offset": 9079,
       "length": 8,
       "value": "\"conent\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Tutorial\/TutorialView.swift",
       "kind": "StringLiteral",
-      "offset": 9002,
+      "offset": 9096,
       "length": 2,
       "value": "\"\""
     },
@@ -8195,6 +8247,13 @@
       "value": "true"
     },
     {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Controls\/NavigationBarDisplayModeModifier.swift",
+      "kind": "BooleanLiteral",
+      "offset": 649,
+      "length": 4,
+      "value": "true"
+    },
+    {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Controls\/RoundRect.swift",
       "kind": "IntegerLiteral",
       "offset": 554,
@@ -8475,27 +8534,6 @@
       "value": "\"predictor\""
     },
     {
-      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/PodBundle.swift",
-      "kind": "StringLiteral",
-      "offset": 530,
-      "length": 31,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/PodBundle.swift",
-      "kind": "StringLiteral",
-      "offset": 550,
-      "length": 10,
-      "value": "\"_predictor\""
-    },
-    {
-      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/PodBundle.swift",
-      "kind": "StringLiteral",
-      "offset": 578,
-      "length": 8,
-      "value": "\"bundle\""
-    },
-    {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/PrePreviews\/MatchPredictorFeaturedCardStatePreviews.swift",
       "kind": "StringLiteral",
       "offset": 730,
@@ -8666,245 +8704,273 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeColors.swift",
       "kind": "BooleanLiteral",
-      "offset": 2369,
+      "offset": 2476,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeColors.swift",
       "kind": "BooleanLiteral",
-      "offset": 2580,
+      "offset": 2687,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeColors.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2864,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeColors.swift",
       "kind": "IntegerLiteral",
-      "offset": 5320,
+      "offset": 5823,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 241,
+      "offset": 257,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 293,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 329,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 366,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 277,
+      "offset": 402,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 317,
+      "offset": 442,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 365,
+      "offset": 490,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 383,
+      "offset": 508,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 407,
+      "offset": 532,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 438,
+      "offset": 563,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 457,
+      "offset": 582,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 499,
+      "offset": 624,
       "length": 2,
       "value": "56"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 546,
+      "offset": 671,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 585,
+      "offset": 710,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 625,
+      "offset": 750,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 666,
+      "offset": 791,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 705,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
-      "kind": "StringLiteral",
-      "offset": 749,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
-      "kind": "StringLiteral",
-      "offset": 796,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
-      "kind": "BooleanLiteral",
       "offset": 830,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
-      "kind": "StringLiteral",
-      "offset": 869,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 902,
+      "offset": 874,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 921,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "BooleanLiteral",
+      "offset": 955,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 994,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 1027,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 949,
+      "offset": 1074,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "BooleanLiteral",
-      "offset": 1068,
+      "offset": 1193,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 1109,
+      "offset": 1234,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 1144,
+      "offset": 1269,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "BooleanLiteral",
-      "offset": 1460,
+      "offset": 1585,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1503,
+      "offset": 1628,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1546,
+      "offset": 1671,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1583,
+      "offset": 1708,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 1666,
+      "offset": 1791,
       "length": 6,
       "value": "\"fill\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 1751,
+      "offset": 1876,
       "length": 5,
       "value": "\"fit\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 1832,
+      "offset": 1957,
       "length": 5,
       "value": "\"fit\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 1926,
+      "offset": 2051,
       "length": 5,
       "value": "\"fit\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 2017,
+      "offset": 2142,
       "length": 5,
       "value": "\"fit\""
     },
