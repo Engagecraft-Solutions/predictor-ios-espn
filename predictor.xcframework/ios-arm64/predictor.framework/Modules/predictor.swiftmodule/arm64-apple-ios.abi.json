@@ -6833,7 +6833,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/LeaugesTab\/Leaderboards\/ManageLeaderboard\/ManageLeaderboardScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 6420,
+      "offset": 6428,
       "length": 5,
       "value": "false"
     },
@@ -7330,49 +7330,49 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 16171,
+      "offset": 16187,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17420,
+      "offset": 17436,
       "length": 25,
       "value": "\"GhPredictorPredictMatch\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17509,
+      "offset": 17525,
       "length": 30,
       "value": "\"GhPredictorEventKeypadClosed\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17602,
+      "offset": 17618,
       "length": 29,
       "value": "\"GhPredictorEventsListOpened\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17820,
+      "offset": 17836,
       "length": 23,
       "value": "\"GhPredictorOpenEvents\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 18028,
+      "offset": 18044,
       "length": 31,
       "value": "\"GhPredictorAdvanceToNextEvent\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 18244,
+      "offset": 18260,
       "length": 35,
       "value": "\"GhPredictorEventsListCloseRequest\""
     },
@@ -8037,28 +8037,28 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Tutorial\/TutorialView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9051,
+      "offset": 9067,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Tutorial\/TutorialView.swift",
       "kind": "StringLiteral",
-      "offset": 9061,
+      "offset": 9077,
       "length": 7,
       "value": "\"title\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Tutorial\/TutorialView.swift",
       "kind": "StringLiteral",
-      "offset": 9079,
+      "offset": 9095,
       "length": 8,
       "value": "\"conent\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Tutorial\/TutorialView.swift",
       "kind": "StringLiteral",
-      "offset": 9096,
+      "offset": 9112,
       "length": 2,
       "value": "\"\""
     },
@@ -8658,6 +8658,27 @@
       "value": "\"predictor\""
     },
     {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/PodBundle.swift",
+      "kind": "StringLiteral",
+      "offset": 1122,
+      "length": 31,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/PodBundle.swift",
+      "kind": "StringLiteral",
+      "offset": 1142,
+      "length": 10,
+      "value": "\"_predictor\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/PodBundle.swift",
+      "kind": "StringLiteral",
+      "offset": 1170,
+      "length": 8,
+      "value": "\"bundle\""
+    },
+    {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/PrePreviews\/MatchPredictorFeaturedCardStatePreviews.swift",
       "kind": "StringLiteral",
       "offset": 730,
@@ -8814,7 +8835,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/StringLocalization.swift",
       "kind": "StringLiteral",
-      "offset": 759,
+      "offset": 767,
       "length": 5,
       "value": "\"{n}\""
     },
