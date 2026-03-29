@@ -37,6 +37,47 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "predictor",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "predictor"
+      },
+      {
+        "kind": "Import",
+        "name": "GamesLib",
+        "printedName": "GamesLib",
+        "declKind": "Import",
+        "moduleName": "predictor"
+      },
+      {
+        "kind": "Import",
+        "name": "Kingfisher",
+        "printedName": "Kingfisher",
+        "declKind": "Import",
+        "moduleName": "predictor"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "predictor",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "GamesLib",
         "printedName": "GamesLib",
         "declKind": "Import",
@@ -1977,6 +2018,13 @@
       },
       {
         "kind": "Import",
+        "name": "GamesLib",
+        "printedName": "GamesLib",
+        "declKind": "Import",
+        "moduleName": "predictor"
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -3518,6 +3566,16 @@
       },
       {
         "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "predictor",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "GamesLib",
         "printedName": "GamesLib",
         "declKind": "Import",
@@ -4193,6 +4251,23 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "predictor",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "predictor"
       },
       {
         "kind": "Import",
@@ -5174,6 +5249,13 @@
       },
       {
         "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "predictor"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -5763,20 +5845,6 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "predictor"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "predictor"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "predictor"
       },
@@ -6427,6 +6495,13 @@
       "value": "\"unable to find bundle named predictor_predictor\""
     },
     {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/External\/UserName\/UsernameEditScreen.swift",
+      "kind": "BooleanLiteral",
+      "offset": 356,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/FeaturedCard.swift",
       "kind": "IntegerLiteral",
       "offset": 2171,
@@ -6562,7 +6637,14 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/GameManager\/NavigationManagerStylingExtension.swift",
       "kind": "BooleanLiteral",
-      "offset": 2049,
+      "offset": 285,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/GameManager\/NavigationManagerStylingExtension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2096,
       "length": 4,
       "value": "true"
     },
@@ -6961,28 +7043,42 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/BootomSheets\/Share\/ShareBottomSheet.swift",
       "kind": "StringLiteral",
-      "offset": 424,
+      "offset": 479,
+      "length": 84,
+      "value": "\"Instagram share - no Facebook ID. You need to add FacebookAppID to your Info.plist\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/BootomSheets\/Share\/ShareBottomSheet.swift",
+      "kind": "BooleanLiteral",
+      "offset": 584,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/BootomSheets\/Share\/ShareBottomSheet.swift",
+      "kind": "StringLiteral",
+      "offset": 639,
       "length": 27,
       "value": "\"instagram-stories:\/\/share\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/BootomSheets\/Share\/ShareBottomSheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 541,
+      "offset": 756,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/BootomSheets\/Share\/ShareBottomSheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 599,
+      "offset": 814,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/BootomSheets\/Share\/ShareBottomSheet.swift",
       "kind": "BooleanLiteral",
-      "offset": 637,
+      "offset": 852,
       "length": 5,
       "value": "false"
     },
@@ -7157,7 +7253,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/Friends\/H2H\/OpenH2HScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 870,
+      "offset": 922,
       "length": 5,
       "value": "false"
     },
@@ -7234,63 +7330,63 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 16169,
+      "offset": 16171,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17413,
+      "offset": 17420,
       "length": 25,
       "value": "\"GhPredictorPredictMatch\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17502,
+      "offset": 17509,
       "length": 30,
       "value": "\"GhPredictorEventKeypadClosed\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17595,
+      "offset": 17602,
       "length": 29,
       "value": "\"GhPredictorEventsListOpened\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17813,
+      "offset": 17820,
       "length": 23,
       "value": "\"GhPredictorOpenEvents\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 18021,
+      "offset": 18028,
       "length": 31,
       "value": "\"GhPredictorAdvanceToNextEvent\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 18237,
+      "offset": 18244,
       "length": 35,
       "value": "\"GhPredictorEventsListCloseRequest\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchPredictionView.swift",
       "kind": "FloatLiteral",
-      "offset": 4547,
+      "offset": 4664,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchPredictionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4612,
+      "offset": 4729,
       "length": 5,
       "value": "false"
     },
@@ -7850,7 +7946,21 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Root\/PredictorRootNavigationController.swift",
       "kind": "BooleanLiteral",
-      "offset": 785,
+      "offset": 582,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Root\/PredictorRootNavigationController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 632,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Root\/PredictorRootNavigationController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 924,
       "length": 4,
       "value": "true"
     },
@@ -7983,14 +8093,14 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/BottomSheetViewExtension.swift",
       "kind": "BooleanLiteral",
-      "offset": 709,
+      "offset": 701,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/BottomSheetViewExtension.swift",
       "kind": "BooleanLiteral",
-      "offset": 1059,
+      "offset": 1051,
       "length": 4,
       "value": "true"
     },
@@ -8242,7 +8352,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Controls\/NavigatioBarModifier.swift",
       "kind": "BooleanLiteral",
-      "offset": 517,
+      "offset": 527,
       "length": 4,
       "value": "true"
     },
@@ -8250,6 +8360,20 @@
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Controls\/NavigationBarDisplayModeModifier.swift",
       "kind": "BooleanLiteral",
       "offset": 649,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Controls\/NavigationBarTitleModifier.swift",
+      "kind": "BooleanLiteral",
+      "offset": 240,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Controls\/NavigationBarTitleModifier.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3599,
       "length": 4,
       "value": "true"
     },
@@ -8704,28 +8828,28 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeColors.swift",
       "kind": "BooleanLiteral",
-      "offset": 2476,
+      "offset": 3054,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeColors.swift",
       "kind": "BooleanLiteral",
-      "offset": 2687,
+      "offset": 3265,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeColors.swift",
       "kind": "BooleanLiteral",
-      "offset": 2864,
+      "offset": 3442,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeColors.swift",
       "kind": "IntegerLiteral",
-      "offset": 5823,
+      "offset": 6797,
       "length": 1,
       "value": "1"
     },
@@ -8788,191 +8912,303 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 532,
+      "offset": 535,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 563,
+      "offset": 576,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 582,
+      "offset": 609,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 645,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 676,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 713,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 732,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 624,
+      "offset": 774,
       "length": 2,
       "value": "56"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 671,
+      "offset": 821,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 710,
+      "offset": 860,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 750,
+      "offset": 900,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 791,
+      "offset": 941,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 830,
+      "offset": 980,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 874,
+      "offset": 1024,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 921,
+      "offset": 1071,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "BooleanLiteral",
-      "offset": 955,
+      "offset": 1105,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 994,
+      "offset": 1144,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 1027,
+      "offset": 1177,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1074,
+      "offset": 1224,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "BooleanLiteral",
-      "offset": 1193,
+      "offset": 1343,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 1234,
+      "offset": 1384,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 1269,
+      "offset": 1522,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 1610,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 1698,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "BooleanLiteral",
-      "offset": 1585,
+      "offset": 1941,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1628,
+      "offset": 1984,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1671,
+      "offset": 2027,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 1708,
+      "offset": 2064,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 1791,
+      "offset": 2147,
       "length": 6,
       "value": "\"fill\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 1876,
+      "offset": 2232,
       "length": 5,
       "value": "\"fit\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 1957,
+      "offset": 2313,
       "length": 5,
       "value": "\"fit\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 2051,
+      "offset": 2407,
       "length": 5,
       "value": "\"fit\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 2142,
+      "offset": 2498,
       "length": 5,
       "value": "\"fit\""
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2581,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2656,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2734,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2791,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2901,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2980,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3100,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3216,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeFonts.swift",
+      "kind": "BooleanLiteral",
+      "offset": 212,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeFonts.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1194,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeImages.swift",
@@ -9936,49 +10172,49 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Leagues\/LeaguesPayload.swift",
       "kind": "StringLiteral",
-      "offset": 9384,
+      "offset": 9385,
       "length": 8,
       "value": "\"ref_id\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Leagues\/LeaguesPayload.swift",
       "kind": "StringLiteral",
-      "offset": 9471,
+      "offset": 9472,
       "length": 12,
       "value": "\"level_name\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Leagues\/LeaguesPayload.swift",
       "kind": "StringLiteral",
-      "offset": 9514,
+      "offset": 9515,
       "length": 13,
       "value": "\"level_color\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Leagues\/LeaguesPayload.swift",
       "kind": "StringLiteral",
-      "offset": 9557,
+      "offset": 9558,
       "length": 12,
       "value": "\"avatar_url\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Leagues\/LeaguesPayload.swift",
       "kind": "IntegerLiteral",
-      "offset": 9623,
+      "offset": 9624,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Leagues\/LeaguesPayload.swift",
       "kind": "StringLiteral",
-      "offset": 10759,
+      "offset": 10855,
       "length": 12,
       "value": "\"not_played\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Leagues\/LeaguesPayload.swift",
       "kind": "StringLiteral",
-      "offset": 10796,
+      "offset": 10892,
       "length": 13,
       "value": "\"not_playing\""
     },
@@ -11217,378 +11453,378 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 731,
+      "offset": 695,
       "length": 11,
       "value": "\"arrowDown\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 880,
+      "offset": 866,
       "length": 16,
       "value": "\"arrowSmallDown\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1034,
+      "offset": 1042,
       "length": 16,
       "value": "\"arrowThickDown\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1190,
+      "offset": 1220,
       "length": 17,
       "value": "\"arrowThickRight\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1331,
+      "offset": 1383,
       "length": 9,
       "value": "\"arrowUp\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1468,
+      "offset": 1542,
       "length": 11,
       "value": "\"backspace\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1599,
+      "offset": 1695,
       "length": 7,
       "value": "\"bench\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1730,
+      "offset": 1848,
       "length": 9,
       "value": "\"bigPlus\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1863,
+      "offset": 2003,
       "length": 9,
       "value": "\"booster\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2002,
+      "offset": 2164,
       "length": 12,
       "value": "\"boosterAdd\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2142,
+      "offset": 2326,
       "length": 11,
       "value": "\"boosterOn\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2273,
+      "offset": 2479,
       "length": 7,
       "value": "\"check\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2412,
+      "offset": 2640,
       "length": 13,
       "value": "\"checkFilled\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2555,
+      "offset": 2805,
       "length": 12,
       "value": "\"checkLarge\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2699,
+      "offset": 2971,
       "length": 13,
       "value": "\"chevronDown\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2840,
+      "offset": 3134,
       "length": 11,
       "value": "\"chevronUp\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2969,
+      "offset": 3285,
       "length": 6,
       "value": "\"copy\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3097,
+      "offset": 3435,
       "length": 8,
       "value": "\"create\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3225,
+      "offset": 3585,
       "length": 7,
       "value": "\"cross\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3354,
+      "offset": 3736,
       "length": 8,
       "value": "\"delete\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3488,
+      "offset": 3892,
       "length": 10,
       "value": "\"doubtful\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3624,
+      "offset": 4050,
       "length": 10,
       "value": "\"download\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3752,
+      "offset": 4200,
       "length": 6,
       "value": "\"exit\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3878,
+      "offset": 4348,
       "length": 7,
       "value": "\"field\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4021,
+      "offset": 4513,
       "length": 15,
       "value": "\"formguideIcon\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4162,
+      "offset": 4676,
       "length": 10,
       "value": "\"iconInfo\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4304,
+      "offset": 4840,
       "length": 13,
       "value": "\"information\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4441,
+      "offset": 4999,
       "length": 9,
       "value": "\"injured\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4578,
+      "offset": 5158,
       "length": 11,
       "value": "\"instagram\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4725,
+      "offset": 5327,
       "length": 15,
       "value": "\"inviteFriends\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4869,
+      "offset": 5493,
       "length": 12,
       "value": "\"left-arrow\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5013,
+      "offset": 5659,
       "length": 13,
       "value": "\"missingSign\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5164,
+      "offset": 5832,
       "length": 16,
       "value": "\"navigationMenu\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5306,
+      "offset": 5996,
       "length": 10,
       "value": "\"noscorer\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5446,
+      "offset": 6158,
       "length": 12,
       "value": "\"notinsquad\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5576,
+      "offset": 6310,
       "length": 6,
       "value": "\"plus\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5713,
+      "offset": 6469,
       "length": 13,
       "value": "\"right-arrow\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5852,
+      "offset": 6630,
       "length": 10,
       "value": "\"settings\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5982,
+      "offset": 6782,
       "length": 7,
       "value": "\"share\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6123,
+      "offset": 6945,
       "length": 14,
       "value": "\"smallBooster\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6271,
+      "offset": 7115,
       "length": 14,
       "value": "\"smallChevron\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6429,
+      "offset": 7295,
       "length": 19,
       "value": "\"smallRoundBooster\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6586,
+      "offset": 7474,
       "length": 16,
       "value": "\"smallcheckmark\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6724,
+      "offset": 7634,
       "length": 8,
       "value": "\"stared\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6860,
+      "offset": 7792,
       "length": 11,
       "value": "\"suspended\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7007,
+      "offset": 7961,
       "length": 15,
       "value": "\"tabLeaguesOff\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7156,
+      "offset": 8132,
       "length": 14,
       "value": "\"tabLeaguesOn\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7314,
+      "offset": 8312,
       "length": 19,
       "value": "\"tabPredictionsOff\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7475,
+      "offset": 8495,
       "length": 18,
       "value": "\"tabPredictionsOn\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7621,
+      "offset": 8663,
       "length": 11,
       "value": "\"trendDown\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7760,
+      "offset": 8824,
       "length": 11,
       "value": "\"trendSame\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7895,
+      "offset": 8981,
       "length": 9,
       "value": "\"trendUp\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8028,
+      "offset": 9136,
       "length": 9,
       "value": "\"warning\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/derivedData\/Build\/Intermediates.noindex\/ArchiveIntermediates\/predictor\/IntermediateBuildFilesPath\/predictor.build\/Release-iphoneos\/predictor.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8171,
+      "offset": 9301,
       "length": 14,
       "value": "\"warningSmall\""
     }

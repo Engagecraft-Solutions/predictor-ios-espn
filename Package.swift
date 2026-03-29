@@ -4,13 +4,13 @@ import PackageDescription
 let package = Package(
     name: "predictor-ios-espn",
     defaultLocalization: "en",
-    platforms: [.iOS(.v15)],
+    platforms: [.iOS(.v17)],
     products: [
         .library(name: "predictor", targets: ["predictor"]),
         .library(name: "espnpredictor", targets: ["espnpredictor"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Engagecraft-Solutions/gaming-core-ios-espn", exact: "1.0.3"),
+        .package(url: "https://github.com/Engagecraft-Solutions/gaming-core-ios-espn", exact: "1.0.5"),
         .package(url: "https://github.com/Alamofire/Alamofire", exact: "5.9.1"),
         .package(url: "https://github.com/SwiftyJSON/SwiftyJSON", exact: "5.0.2"),
         .package(url: "https://github.com/onevcat/Kingfisher", from: "7.11.0"),
