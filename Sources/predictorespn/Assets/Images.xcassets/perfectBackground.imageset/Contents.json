@@ -1,14 +1,17 @@
 {
   "images" : [
     {
+      "filename" : "espnpredictor_bg_perfecthdpi.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "espnpredictor_bg_perfectxhdpi.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "espnpredictor_bg_perfectxxhdpi.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
