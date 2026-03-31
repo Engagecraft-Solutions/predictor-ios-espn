@@ -1,9 +1,9 @@
-"This season, predict Champions League results – and climb the leaderboards!" = "This season, predict Competition results – and climb the leaderboards!";
-"Forwards" = "Forwards";
-"Midfielders" = "Midfielders";
-"Defenders" = "Defenders";
-"Goalkeepers" = "Goalkeepers";
-"No first goalscorer" = "No first goalscorer";
+"This season, predict Champions League results – and climb the leaderboards!" = "Voorspel de uitslagen van het WK en stijg op de ranglijst!";
+"Forwards" = "Aanvallers";
+"Midfielders" = "Middenvelders";
+"Defenders" = "Verdedigers";
+"Goalkeepers" = "Keepers";
+"No first goalscorer" = "Geen eerste doelpuntenmaker";
 /* 
   Localizable.strings
   Pods
@@ -12,9 +12,9 @@
   
 */
 
-"Predict every Champions League result – how many will you get right?" = "Predict Championship results – how many will you get right?";
-"Check out my predictions. Share pre-matchday" = "Check out my predictions for {MD}. Think you can do better? Predict Championship results and let’s find out! #UCLpredictsix";
-"Check out my predictions. Share post-matchday" = "Check out my Predictor score for {MD} in the Championship! Think you can do better? Start predicting now and let’s find out!";
-"It's been an amazing season - come back in September to start afresh!" = "It's been an amazing season – come back in September to start afresh!";
-"Match Predictor" = "Match Predictor";
-"Predictor" = "Predictor";
+"Predict every Champions League result – how many will you get right?" = "Voorspel elke uitslag van het WK - hoeveel ga jij er goed voorspellen?";
+"Check out my predictions. Share pre-matchday" = "Bekijk mijn voorspellingen voor {MD}! Kan jij het beter? Voorspel de uitslagen om erachter te komen! #ESPNWKPool";
+"Check out my predictions. Share post-matchday" = "Check mijn WK-score voor {MD}! Kan jij het beter? Voorspel nu om erachter te komen! #ESPNWKPool";
+"It's been an amazing season - come back in September to start afresh!" = "Bedankt voor dit toernooi - doe komend seizoen ook mee met ESPN Fantasy Voetbal!";
+"Match Predictor" = "ESPN WK Pool";
+"Predictor" = "ESPN WK Pool";
