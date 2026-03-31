@@ -6617,20 +6617,20 @@
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/GameManager\/NavigationManagerRemoteSettingsExtension.swift",
       "kind": "StringLiteral",
       "offset": 1294,
-      "length": 7530,
-      "value": "\" {\n     \"data\": [\n         {\n             \"name\": \"ios-matchpredictor-settings\",\n             \"version\": \"1\",\n             \"parameters\": {\n                 \"disable_remote_translations\": {\n                     \"uclpredictor\": false,\n                     \"uelpredictor\": false,\n                     \"ueclpredictor\": false,\n                     \"uwclpredictor\": false,\n                     \"uylpredictor\": false,\n                     \"europredictor\": false\n                 },\n                \"uclpredictor\": {\n                    \"rules_page_link\": \"https:\/\/gaming{prefix}.uefa.com\/{language}\/{gameid}\/p\/rules\",\n                    \"menu_disable\": {\n                        \"leagues\": false,\n                        \"achievements\": false,\n                        \"scoringsystem\": false,\n                        \"rules\": false\n                    },\n                    \"predictions_screen_disable\": {\n                        \"leagues_card\": false,\n                        \"notifications_card\": false\n                    },\n                    \"override_sponsor_with_banner\": false,\n                    \"exclusive_sponsor_name\": \"\",\n                    \"rules_link\":{\n                        \"en\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15df8707b234-9cebd98d051d-1000\",\n                        \"es\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfbff37831-9487ba2dc9c1-1000\",\n                        \"pt\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfbe8cf9b9-fd42e7c25a9f-1000\",\n                        \"fr\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfcc17dae8-5878089f6025-1000\",\n                        \"it\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfb9f16a2e-e2e32b49196a-1000\",\n                        \"ru\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfc0be0618-a41b2bc681a9-1000\",\n                        \"de\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15e1313ff22b-08fcc1b07566-1000\"\n                    }\n                },\n                \"uelpredictor\": {\n                    \"rules_page_link\": \"https:\/\/gaming{prefix}.uefa.com\/{language}\/{gameid}\/p\/rules\",\n                    \"override_sponsor_with_banner\": true,\n                    \"top_banner_prefix\": \"top_\",\n                    \"exclusive_sponsor_name\": \"OPTIBET\",\n                    \"rules_link\":{\n                        \"en\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/026d-133448d59198-771b20193288-1000\/\",\n                        \"es\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/0275-152a1d642130-25fb7bb779a3-1000\/\",\n                        \"pt\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/0278-15df666a657c-e2d08ebb33e5-1000\/\",\n                        \"fr\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/0278-15df5f52c992-7bb4d42629de-1000\/\",\n                        \"it\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/0278-15df637b3875-1cd05a3dcdf9-1000\/\",\n                        \"ru\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/0275-152a19201954-31551fc8337a-1000\/\",\n                        \"de\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/78-15df8626e228-3ff519594192-1000\/\"\n                    }\n                },\n                \"ueclpredictor\": {\n                    \"rules_page_link\": \"https:\/\/gaming{prefix}.uefa.com\/{language}\/{gameid}\/p\/rules\",\n                    \"override_sponsor_with_banner\": true,\n                    \"top_banner_prefix\": \"top_\",\n                    \"exclusive_sponsor_name\": \"OPTIBET\",\n                    \"rules_link\":{\n                        \"en\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/026d-133448d59198-771b20193288-1000\/\",\n                        \"es\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/0275-152a1d642130-25fb7bb779a3-1000\/\",\n                        \"pt\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/0278-15df666a657c-e2d08ebb33e5-1000\/\",\n                        \"fr\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/0278-15df5f52c992-7bb4d42629de-1000\/\",\n                        \"it\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/0278-15df637b3875-1cd05a3dcdf9-1000\/\",\n                        \"ru\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/0275-152a19201954-31551fc8337a-1000\/\",\n                        \"de\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/78-15df8626e228-3ff519594192-1000\/\"\n                    }\n                },\n                \"uwclpredictor\": {\n                    \"rules_page_link\": \"https:\/\/gaming{prefix}.uefa.com\/{language}\/{gameid}\/p\/rules\",\n                    \"exclusive_sponsor_name\": \"Euronics\",\n                    \"rules_link\":{\n                        \"en\": \"https:\/\/www.uefa.com\/womenschampionsleague\/news\/026d-133448d59198-771b20193288-1000\/\",\n                        \"es\": \"https:\/\/www.uefa.com\/womenschampionsleague\/news\/0275-152a1d642130-25fb7bb779a3-1000\/\",\n                        \"pt\": \"https:\/\/www.uefa.com\/womenschampionsleague\/news\/0278-15df666a657c-e2d08ebb33e5-1000\/\",\n                        \"fr\": \"https:\/\/www.uefa.com\/womenschampionsleague\/news\/0278-15df5f52c992-7bb4d42629de-1000\/\",\n                        \"it\": \"https:\/\/www.uefa.com\/womenschampionsleague\/news\/0278-15df637b3875-1cd05a3dcdf9-1000\/\",\n                        \"ru\": \"https:\/\/www.uefa.com\/womenschampionsleague\/news\/0275-152a19201954-31551fc8337a-1000\/\",\n                        \"de\": \"https:\/\/www.uefa.com\/womenschampionsleague\/news\/78-15df8626e228-3ff519594192-1000\/\"\n                    }\n                },\n                \"uylpredictor\": {\n                    \"rules_page_link\": \"https:\/\/gaming{prefix}.uefa.com\/{language}\/{gameid}\/p\/rules\",\n                    \"rules_link\":{\n                        \"en\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/026d-133448d59198-771b20193288-1000\/\",\n                        \"es\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/0275-152a1d642130-25fb7bb779a3-1000\/\",\n                        \"pt\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/0278-15df666a657c-e2d08ebb33e5-1000\/\",\n                        \"fr\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/0278-15df5f52c992-7bb4d42629de-1000\/\",\n                        \"it\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/0278-15df637b3875-1cd05a3dcdf9-1000\/\",\n                        \"ru\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/0275-152a19201954-31551fc8337a-1000\/\",\n                        \"de\": \"https:\/\/www.uefa.com\/uefaeuropaleague\/news\/78-15df8626e228-3ff519594192-1000\/\"\n                    }\n                },\n                \"europredictor\": {\n                    \"rules_page_link\": \"https:\/\/gaming{prefix}.uefa.com\/{language}\/{gameid}\/p\/rules\",\n                    \"override_sponsor_with_banner\": true,\n                    \"exclusive_sponsor_name\": \"Betano\",\n                    \"rules_link\":{\n                        \"en\": \"https:\/\/www.uefa.com\/euro2024\/news\/028c-1aad25b785b0-ba7e645c42e1-1000\",\n                        \"es\": \"https:\/\/www.uefa.com\/euro2024\/news\/028c-1aad25b785b0-ba7e645c42e1-1000\",\n                        \"pt\": \"https:\/\/www.uefa.com\/euro2024\/news\/028c-1aad25b785b0-ba7e645c42e1-1000\",\n                        \"fr\": \"https:\/\/www.uefa.com\/euro2024\/news\/028c-1aad25b785b0-ba7e645c42e1-1000\",\n                        \"it\": \"https:\/\/www.uefa.com\/euro2024\/news\/028c-1aad25b785b0-ba7e645c42e1-1000\",\n                        \"ru\": \"https:\/\/www.uefa.com\/euro2024\/news\/028c-1aad25b785b0-ba7e645c42e1-1000\",\n                        \"de\": \"https:\/\/www.uefa.com\/euro2024\/news\/028c-1aad25b785b0-ba7e645c42e1-1000\"\n                    }\n                }\n             }\n         }\n     ]\n }\""
+      "length": 2810,
+      "value": "\" {\n     \"data\": [\n         {\n             \"name\": \"ios-matchpredictor-settings\",\n             \"version\": \"1\",\n             \"parameters\": {\n                 \"disable_remote_translations\": {\n                     \"uclpredictor\": false,\n                     \"uelpredictor\": false,\n                     \"ueclpredictor\": false,\n                     \"uwclpredictor\": false,\n                     \"uylpredictor\": false,\n                     \"europredictor\": false\n                 },\n                \"espnredictor\": {\n                    \"rules_link_tag\":\"PREDICTOR.ESPN\"\n                    \"rules_page_link\": \"\",\n                    \"menu_disable\": {\n                        \"leagues\": true,\n                        \"achievements\": true,\n                        \"scoringsystem\": false,\n                        \"rules\": false\n                    },\n                    \"predictions_screen_disable\": {\n                        \"leagues_card\": false,\n                        \"notifications_card\": true\n                    },\n                    \"override_sponsor_with_banner\": false,\n                    \"exclusive_sponsor_name\": \"\",\n                    \"rules_link\":{\n                        \"en\": \"\"\n                    }\n                },\n                \"uclpredictor\": {\n                    \"rules_page_link\": \"https:\/\/gaming{prefix}.uefa.com\/{language}\/{gameid}\/p\/rules\",\n                    \"menu_disable\": {\n                        \"leagues\": false,\n                        \"achievements\": false,\n                        \"scoringsystem\": false,\n                        \"rules\": false\n                    },\n                    \"predictions_screen_disable\": {\n                        \"leagues_card\": false,\n                        \"notifications_card\": false\n                    },\n                    \"override_sponsor_with_banner\": false,\n                    \"exclusive_sponsor_name\": \"\",\n                    \"rules_link\":{\n                        \"en\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15df8707b234-9cebd98d051d-1000\",\n                        \"es\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfbff37831-9487ba2dc9c1-1000\",\n                        \"pt\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfbe8cf9b9-fd42e7c25a9f-1000\",\n                        \"fr\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfcc17dae8-5878089f6025-1000\",\n                        \"it\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfb9f16a2e-e2e32b49196a-1000\",\n                        \"ru\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfc0be0618-a41b2bc681a9-1000\",\n                        \"de\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15e1313ff22b-08fcc1b07566-1000\"\n                    }\n                }\n             }\n         }\n     ]\n }\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/GameManager\/NavigationManagerRemoteSettingsExtension.swift",
       "kind": "StringLiteral",
-      "offset": 8868,
+      "offset": 4148,
       "length": 29,
       "value": "\"ios-matchpredictor-settings\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/GameManager\/NavigationManagerRemoteSettingsExtension.swift",
       "kind": "IntegerLiteral",
-      "offset": 9090,
+      "offset": 4370,
       "length": 4,
       "value": "3600"
     },
@@ -9171,49 +9171,49 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "BooleanLiteral",
-      "offset": 2656,
+      "offset": 2700,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "BooleanLiteral",
-      "offset": 2734,
+      "offset": 2778,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "BooleanLiteral",
-      "offset": 2791,
+      "offset": 2859,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "BooleanLiteral",
-      "offset": 2901,
+      "offset": 2969,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 2980,
+      "offset": 3048,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 3100,
+      "offset": 3168,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
       "kind": "IntegerLiteral",
-      "offset": 3216,
+      "offset": 3284,
       "length": 1,
       "value": "1"
     },
