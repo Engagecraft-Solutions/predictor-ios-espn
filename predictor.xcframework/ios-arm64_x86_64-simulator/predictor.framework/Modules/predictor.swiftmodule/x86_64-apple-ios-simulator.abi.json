@@ -6686,21 +6686,21 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/LeaugesTab\/BottomSheet\/Dialog\/YesNoBottomSheetScreen.swift",
       "kind": "StringLiteral",
-      "offset": 2616,
+      "offset": 2624,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/LeaugesTab\/BottomSheet\/Dialog\/YesNoBottomSheetScreen.swift",
       "kind": "StringLiteral",
-      "offset": 2638,
+      "offset": 2646,
       "length": 12,
       "value": "\"No, Cancel\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/LeaugesTab\/BottomSheet\/Dialog\/YesNoBottomSheetScreen.swift",
       "kind": "StringLiteral",
-      "offset": 2681,
+      "offset": 2689,
       "length": 5,
       "value": "\"Yes\""
     },
@@ -6833,7 +6833,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/LeaugesTab\/Leaderboards\/ManageLeaderboard\/ManageLeaderboardScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 6428,
+      "offset": 6436,
       "length": 5,
       "value": "false"
     },
@@ -7183,14 +7183,14 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/Friends\/FriendsPredictions\/Views\/FriendPredictionLineView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4285,
+      "offset": 4293,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/Friends\/FriendsPredictions\/Views\/FriendPredictionLineView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4312,
+      "offset": 4320,
       "length": 5,
       "value": "false"
     },
@@ -7554,7 +7554,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/SecondaryPredictions\/BottomSheets\/Views\/PlayerPrediction\/PlayerSelectionView.swift",
       "kind": "StringLiteral",
-      "offset": 1081,
+      "offset": 1089,
       "length": 8,
       "value": "\"stared\""
     },
@@ -7603,7 +7603,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/SecondaryPredictions\/Views\/SecondaryPredictionOutcomeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1053,
+      "offset": 1061,
       "length": 2,
       "value": "16"
     },
@@ -8639,7 +8639,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/IntPointStringExtension.swift",
       "kind": "IntegerLiteral",
-      "offset": 1039,
+      "offset": 1047,
       "length": 1,
       "value": "1"
     },
@@ -9255,14 +9255,14 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeViewExtension.swift",
       "kind": "IntegerLiteral",
-      "offset": 5030,
+      "offset": 5054,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeViewExtension.swift",
       "kind": "FloatLiteral",
-      "offset": 5994,
+      "offset": 6026,
       "length": 3,
       "value": "1.0"
     },
