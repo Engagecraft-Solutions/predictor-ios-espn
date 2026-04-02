@@ -6617,20 +6617,20 @@
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/GameManager\/NavigationManagerRemoteSettingsExtension.swift",
       "kind": "StringLiteral",
       "offset": 1294,
-      "length": 2913,
-      "value": "\" {\n     \"data\": [\n         {\n             \"name\": \"ios-matchpredictor-settings\",\n             \"version\": \"1\",\n             \"parameters\": {\n                 \"disable_remote_translations\": {\n                     \"uclpredictor\": false,\n                     \"uelpredictor\": false,\n                     \"ueclpredictor\": false,\n                     \"uwclpredictor\": false,\n                     \"uylpredictor\": false,\n                     \"europredictor\": false\n                 },\n                \"espnpredictor\": {\n                    \"splash_screen_timeout\": 1,\n                    \"disable_tutorial_screen\": true,\n                    \"rules_link_tag\":\"PREDICTOR.ESPN\",\n                    \"rules_page_link\": \"\",\n                    \"menu_disable\": {\n                        \"leagues\": true,\n                        \"achievements\": true,\n                        \"scoringsystem\": false,\n                        \"rules\": false\n                    },\n                    \"predictions_screen_disable\": {\n                        \"leagues_card\": false,\n                        \"notifications_card\": true\n                    },\n                    \"override_sponsor_with_banner\": false,\n                    \"exclusive_sponsor_name\": \"\",\n                    \"rules_link\":{\n                        \"en\": \"\"\n                    }\n                },\n                \"uclpredictor\": {\n                    \"rules_page_link\": \"https:\/\/gaming{prefix}.uefa.com\/{language}\/{gameid}\/p\/rules\",\n                    \"menu_disable\": {\n                        \"leagues\": false,\n                        \"achievements\": false,\n                        \"scoringsystem\": false,\n                        \"rules\": false\n                    },\n                    \"predictions_screen_disable\": {\n                        \"leagues_card\": false,\n                        \"notifications_card\": false\n                    },\n                    \"override_sponsor_with_banner\": false,\n                    \"exclusive_sponsor_name\": \"\",\n                    \"rules_link\":{\n                        \"en\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15df8707b234-9cebd98d051d-1000\",\n                        \"es\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfbff37831-9487ba2dc9c1-1000\",\n                        \"pt\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfbe8cf9b9-fd42e7c25a9f-1000\",\n                        \"fr\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfcc17dae8-5878089f6025-1000\",\n                        \"it\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfb9f16a2e-e2e32b49196a-1000\",\n                        \"ru\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfc0be0618-a41b2bc681a9-1000\",\n                        \"de\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15e1313ff22b-08fcc1b07566-1000\"\n                    }\n                }\n             }\n         }\n     ]\n }\""
+      "length": 2914,
+      "value": "\" {\n     \"data\": [\n         {\n             \"name\": \"ios-matchpredictor-settings\",\n             \"version\": \"1\",\n             \"parameters\": {\n                 \"disable_remote_translations\": {\n                     \"uclpredictor\": false,\n                     \"uelpredictor\": false,\n                     \"ueclpredictor\": false,\n                     \"uwclpredictor\": false,\n                     \"uylpredictor\": false,\n                     \"europredictor\": false\n                 },\n                \"espnpredictor\": {\n                    \"splash_screen_timeout\": 1,\n                    \"disable_tutorial_screen\": true,\n                    \"rules_link_tag\":\"PREDICTOR.RULES\",\n                    \"rules_page_link\": \"\",\n                    \"menu_disable\": {\n                        \"leagues\": true,\n                        \"achievements\": true,\n                        \"scoringsystem\": false,\n                        \"rules\": false\n                    },\n                    \"predictions_screen_disable\": {\n                        \"leagues_card\": false,\n                        \"notifications_card\": true\n                    },\n                    \"override_sponsor_with_banner\": false,\n                    \"exclusive_sponsor_name\": \"\",\n                    \"rules_link\":{\n                        \"en\": \"\"\n                    }\n                },\n                \"uclpredictor\": {\n                    \"rules_page_link\": \"https:\/\/gaming{prefix}.uefa.com\/{language}\/{gameid}\/p\/rules\",\n                    \"menu_disable\": {\n                        \"leagues\": false,\n                        \"achievements\": false,\n                        \"scoringsystem\": false,\n                        \"rules\": false\n                    },\n                    \"predictions_screen_disable\": {\n                        \"leagues_card\": false,\n                        \"notifications_card\": false\n                    },\n                    \"override_sponsor_with_banner\": false,\n                    \"exclusive_sponsor_name\": \"\",\n                    \"rules_link\":{\n                        \"en\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15df8707b234-9cebd98d051d-1000\",\n                        \"es\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfbff37831-9487ba2dc9c1-1000\",\n                        \"pt\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfbe8cf9b9-fd42e7c25a9f-1000\",\n                        \"fr\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfcc17dae8-5878089f6025-1000\",\n                        \"it\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfb9f16a2e-e2e32b49196a-1000\",\n                        \"ru\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfc0be0618-a41b2bc681a9-1000\",\n                        \"de\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15e1313ff22b-08fcc1b07566-1000\"\n                    }\n                }\n             }\n         }\n     ]\n }\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/GameManager\/NavigationManagerRemoteSettingsExtension.swift",
       "kind": "StringLiteral",
-      "offset": 4251,
+      "offset": 4252,
       "length": 29,
       "value": "\"ios-matchpredictor-settings\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/GameManager\/NavigationManagerRemoteSettingsExtension.swift",
       "kind": "IntegerLiteral",
-      "offset": 4473,
+      "offset": 4474,
       "length": 4,
       "value": "3600"
     },
@@ -6833,7 +6833,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/LeaugesTab\/Leaderboards\/ManageLeaderboard\/ManageLeaderboardScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 6436,
+      "offset": 6473,
       "length": 5,
       "value": "false"
     },
@@ -7183,14 +7183,14 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/Friends\/FriendsPredictions\/Views\/FriendPredictionLineView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4293,
+      "offset": 4531,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/Friends\/FriendsPredictions\/Views\/FriendPredictionLineView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4320,
+      "offset": 4558,
       "length": 5,
       "value": "false"
     },
@@ -7379,14 +7379,14 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchPredictionView.swift",
       "kind": "FloatLiteral",
-      "offset": 4664,
+      "offset": 4669,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchPredictionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4729,
+      "offset": 4734,
       "length": 5,
       "value": "false"
     },
@@ -8212,14 +8212,14 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Controls\/GameTabBar\/GameTabBarView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1740,
+      "offset": 1756,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Controls\/GameTabBar\/GameTabBarView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1765,
+      "offset": 1781,
       "length": 5,
       "value": "false"
     },
@@ -8849,28 +8849,28 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeColors.swift",
       "kind": "BooleanLiteral",
-      "offset": 3054,
+      "offset": 3566,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeColors.swift",
       "kind": "BooleanLiteral",
-      "offset": 3265,
+      "offset": 3777,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeColors.swift",
       "kind": "BooleanLiteral",
-      "offset": 3442,
+      "offset": 3954,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeColors.swift",
       "kind": "IntegerLiteral",
-      "offset": 6797,
+      "offset": 7309,
       "length": 1,
       "value": "1"
     },
