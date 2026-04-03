@@ -125,10 +125,10 @@
 "Yes, leave" = "Ja, verlaat";
 "Today" = "Vandaag";
 "Tomorrow" = "Morgen";
-"AET:" = "N.V.:";
-"ET:" = "verl.:";
+"AET:" = "Na ET:";
+"ET:" = "ET:";
 "FT:" = "FT:";
-"(ET)" = "(verl.)";
+"(ET)" = "(ET)";
 "Live now" = "Nu live";
 "Abandoned" = "Opgegeven";
 "Postponed" = "Uitgesteld";
@@ -189,7 +189,7 @@
 "Your leagues will be updated once points are calculated" = "Je subleagues worden bijgewerkt als de punten zijn berekend. ";
 "TBC" = "NTB";
 "Play {2x} booster" = "Speel {2x} booster";
-"{2x} booster active" = "Kies speler";
+"{2x} booster active" = "{2x} booster actief ";
 "{b}x" = "{b}x";
 "Switch {2x} booster" = "Wissel {2x} booster";
 "Your predictions are all set!" = "Je voorspellingen staan klaar!";
