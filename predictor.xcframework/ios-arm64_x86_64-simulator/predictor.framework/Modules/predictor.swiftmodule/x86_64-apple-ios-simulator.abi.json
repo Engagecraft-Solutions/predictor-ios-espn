@@ -4254,6 +4254,16 @@
       },
       {
         "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "predictor",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -4530,6 +4540,16 @@
         "printedName": "GamesLib",
         "declKind": "Import",
         "moduleName": "predictor"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "predictor",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -6798,7 +6818,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/LeaugesTab\/Leaderboards\/LeaderboardScreen.swift",
       "kind": "StringLiteral",
-      "offset": 6185,
+      "offset": 6393,
       "length": 9,
       "value": "\"Overall\""
     },
@@ -7379,14 +7399,14 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchPredictionView.swift",
       "kind": "FloatLiteral",
-      "offset": 4669,
+      "offset": 4633,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchPredictionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4734,
+      "offset": 4698,
       "length": 5,
       "value": "false"
     },
@@ -7757,7 +7777,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/PredictionsScreen.swift",
       "kind": "BooleanLiteral",
-      "offset": 9008,
+      "offset": 9143,
       "length": 5,
       "value": "false"
     },
@@ -7960,7 +7980,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/Root\/PredictorRootNavigationController.swift",
       "kind": "BooleanLiteral",
-      "offset": 924,
+      "offset": 977,
       "length": 4,
       "value": "true"
     },
@@ -8252,6 +8272,13 @@
       "value": "false"
     },
     {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Controls\/GlassEffectModifier.swift",
+      "kind": "BooleanLiteral",
+      "offset": 380,
+      "length": 4,
+      "value": "true"
+    },
+    {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Controls\/LiveLineView.swift",
       "kind": "IntegerLiteral",
       "offset": 170,
@@ -8373,7 +8400,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Controls\/NavigationBarTitleModifier.swift",
       "kind": "BooleanLiteral",
-      "offset": 3599,
+      "offset": 3692,
       "length": 4,
       "value": "true"
     },
@@ -9218,6 +9245,20 @@
       "value": "1"
     },
     {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3425,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeConfiguration.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3537,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Theme\/ThemeFonts.swift",
       "kind": "BooleanLiteral",
       "offset": 212,
@@ -9570,63 +9611,63 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Card.swift",
       "kind": "StringLiteral",
-      "offset": 3355,
+      "offset": 3392,
       "length": 9,
       "value": "\"MMMM dd\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Card.swift",
       "kind": "StringLiteral",
-      "offset": 4129,
+      "offset": 4166,
       "length": 11,
       "value": "\"home_team\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Card.swift",
       "kind": "StringLiteral",
-      "offset": 4169,
+      "offset": 4206,
       "length": 11,
       "value": "\"away_team\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Card.swift",
       "kind": "StringLiteral",
-      "offset": 4238,
+      "offset": 4275,
       "length": 17,
       "value": "\"home_team_score\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Card.swift",
       "kind": "StringLiteral",
-      "offset": 4289,
+      "offset": 4326,
       "length": 17,
       "value": "\"away_team_score\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Card.swift",
       "kind": "StringLiteral",
-      "offset": 4347,
+      "offset": 4384,
       "length": 21,
       "value": "\"home_team_pen_score\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Card.swift",
       "kind": "StringLiteral",
-      "offset": 4409,
+      "offset": 4446,
       "length": 21,
       "value": "\"away_team_pen_score\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Card.swift",
       "kind": "StringLiteral",
-      "offset": 4463,
+      "offset": 4500,
       "length": 15,
       "value": "\"has_penalties\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/Card.swift",
       "kind": "StringLiteral",
-      "offset": 4511,
+      "offset": 4548,
       "length": 16,
       "value": "\"has_extra_time\""
     },
@@ -9703,7 +9744,7 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/FormGuide.swift",
       "kind": "StringLiteral",
-      "offset": 1524,
+      "offset": 1560,
       "length": 9,
       "value": "\"dd MMMM\""
     },
@@ -10466,21 +10507,21 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/MatchDateExtension.swift",
       "kind": "StringLiteral",
-      "offset": 327,
+      "offset": 359,
       "length": 16,
       "value": "\"dd\/MMMM, HH:mm\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/MatchDateExtension.swift",
       "kind": "StringLiteral",
-      "offset": 500,
+      "offset": 564,
       "length": 9,
       "value": "\"dd\/MMMM\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/MatchDateExtension.swift",
       "kind": "StringLiteral",
-      "offset": 666,
+      "offset": 762,
       "length": 7,
       "value": "\"HH:mm\""
     },
@@ -11005,84 +11046,84 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/PointsHistory.swift",
       "kind": "StringLiteral",
-      "offset": 2281,
+      "offset": 2313,
       "length": 9,
       "value": "\"dd\/MMMM\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/PointsHistory.swift",
       "kind": "StringLiteral",
-      "offset": 2909,
+      "offset": 2941,
       "length": 13,
       "value": "\"score_rules\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/PointsHistory.swift",
       "kind": "StringLiteral",
-      "offset": 3520,
+      "offset": 3552,
       "length": 18,
       "value": "\"points_formatted\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/PointsHistory.swift",
       "kind": "StringLiteral",
-      "offset": 3602,
+      "offset": 3634,
       "length": 20,
       "value": "\"position_formatted\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/PointsHistory.swift",
       "kind": "StringLiteral",
-      "offset": 3655,
+      "offset": 3687,
       "length": 15,
       "value": "\"users_overall\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/PointsHistory.swift",
       "kind": "StringLiteral",
-      "offset": 3707,
+      "offset": 3739,
       "length": 20,
       "value": "\"users_overall_abbr\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/PointsHistory.swift",
       "kind": "StringLiteral",
-      "offset": 4176,
+      "offset": 4208,
       "length": 14,
       "value": "\"points_fixed\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/PointsHistory.swift",
       "kind": "StringLiteral",
-      "offset": 4222,
+      "offset": 4254,
       "length": 14,
       "value": "\"points_label\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/PointsHistory.swift",
       "kind": "StringLiteral",
-      "offset": 4261,
+      "offset": 4293,
       "length": 12,
       "value": "\"name_front\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/PointsHistory.swift",
       "kind": "StringLiteral",
-      "offset": 4376,
+      "offset": 4408,
       "length": 11,
       "value": "\"sub_rules\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/PointsHistory.swift",
       "kind": "StringLiteral",
-      "offset": 4663,
+      "offset": 4695,
       "length": 14,
       "value": "\"points_label\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Payloads\/PointsHistory.swift",
       "kind": "StringLiteral",
-      "offset": 4706,
+      "offset": 4738,
       "length": 12,
       "value": "\"name_front\""
     },

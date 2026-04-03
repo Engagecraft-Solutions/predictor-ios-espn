@@ -64,14 +64,14 @@
 "Private leagues" = "Besloten subleagues";
 "Join a league" = "Join een subleague";
 "Create a league" = "Maak een subleague";
-"Invite your friends" = "Nodig je vrienden uit";
+"Invite your friends" = "Nodig vrienden uit";
 "Want to join my Predictor League? Use the code {code} or the link below. Bring it on!" = "Wil je mijn subleague in de ESPN WK Pool joinen? Gebruik de code {code} of de link hieronder. Kom maar op!";
-"League code" = "Subleaguecode";
+"League code" = "Subleague code";
 "Your friends can use this code to join your league." = "Je vrienden kunnen deze code gebruiken om je subleague te joinen.";
 "Copied to clipboard!" = "Gekopieerd naar klembord!";
-"League link" = "Subleague link";
+"League link" = "Subleaguelink";
 "Your friends can use this link to join your league." = "Je vrienden kunnen deze link gebruiken om je subleague te joinen.";
-"You can share your league via messaging apps." = "Je kan je subleague delen via messaging apps.";
+"You can share your league via messaging apps." = "Je kan je subleague delen via apps.";
 "Share league" = "Deel subleague";
 "No other members for now" = "Nog geen andere deelnemers";
 "To invite friends to this league, share the code" = "Om je vrienden uit te nodigen voor deze subleague, deel de code";
@@ -99,7 +99,7 @@
 "How to score points" = "Zo scoor je punten";
 "Bonus points" = "Bonuspunten";
 "*Knockout stages" = "*Knock-outrondes";
-"For more info, read the Predictor rules" = "Voor mee info, lees de spelregels";
+"For more info, read the Predictor rules" = "Voor meer info, lees de spelregels";
 "Your live score:" = "Jouw live score:";
 "No prediction made" = "Geen voorspelling gemaakt";
 "Excellent!" = "Uitstekend!";
@@ -114,7 +114,7 @@
 "Login to play" = "Log in om te spelen";
 "Try as guest" = "Probeer als gast";
 "Presented by" = "Presented by";
-"No, Cancel" = "Nee, cancel";
+"No, Cancel" = "Nee, annuleer";
 "Yes" = "Ja";
 "{user} invited you to join the league {name}" = "{user} heeft je uitgenodigd om de subleague {name} te joinen";
 "Delete league" = "Verwijder subleague";
@@ -217,3 +217,5 @@
 "Every matchday, double your points on one match." = "Verdubbel in elke ronde je score voor één wedstrijd.";
 "You’ve predicted all events for this match! What’s next?" = "Je hebt alles voorspeld voor deze wedstrijd!";
 "Predict {home} v {away}" = "Voorspel {home} - {away}";
+"Your username will appear on public leaderboards" = "Je naam zal te zien zijn in de rankings";
+"Edit user name" = "Naam aanpassen";
