@@ -169,7 +169,7 @@
 "See what {friend_name} predicted" = "Bekijk wat {friend_name} voorspelde";
 "{n} friends have made predictions" = "{n} vrienden hebben voorspellingen gemaakt";
 "{friend_name} has made a prediction" = "{friend_name} heeft een voorspelling gemaakt";
-"Your friends' predictions" = "Vriends voorspellingen";
+"Your friends' predictions" = "Voorspellingen van vrienden";
 "You’ll be able to see your friends’ predictions once this match kicks off" = "Je kan de voorspellingen van je vrienden zien als de wedstrijd begonnen is";
 "You predicted" = "Jij voorspelde";
 "Head-to-head" = "Head-to-head";
@@ -219,3 +219,4 @@
 "Predict {home} v {away}" = "Voorspel {home} - {away}";
 "Your username will appear on public leaderboards" = "Je naam zal te zien zijn in de rankings";
 "Edit user name" = "Naam aanpassen";
+"Join league" = "Join subleague";

@@ -1131,6 +1131,93 @@
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "gameSwiftUI",
+            "printedName": "gameSwiftUI(data:gameId:competition:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpaqueTypeArchetype",
+                "printedName": "some SwiftUI.View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "View",
+                    "printedName": "SwiftUI.View",
+                    "usr": "s:7SwiftUI4ViewP"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9predictor4GameC11gameSwiftUI4data0C2Id11competitionQrSDySSypGSg_SSSgSiSgtFZ",
+            "mangledName": "$s9predictor4GameC11gameSwiftUI4data0C2Id11competitionQrSDySSypGSg_SSSgSiSgtFZ",
+            "moduleName": "predictor",
+            "static": true,
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -1249,8 +1336,44 @@
             "printedName": "GameCard",
             "usr": "c:@M@GamesLib@objc(pl)GameCard",
             "mangledName": "$s8GamesLib8GameCardP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CompetitionGameCardView",
+            "printedName": "CompetitionGameCardView",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "GameScreen",
+                "printedName": "GameScreen",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "usr": "s:8GamesLib23CompetitionGameCardViewP",
+            "mangledName": "$s8GamesLib23CompetitionGameCardViewP"
           }
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "predictor"
       },
       {
         "kind": "Import",
@@ -3551,6 +3674,20 @@
         "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "predictor"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "predictor"
+      },
+      {
+        "kind": "Import",
+        "name": "GamesLib",
+        "printedName": "GamesLib",
         "declKind": "Import",
         "moduleName": "predictor"
       },
@@ -7339,56 +7476,56 @@
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7858,
+      "offset": 7917,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 16249,
+      "offset": 17180,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17498,
+      "offset": 18429,
       "length": 25,
       "value": "\"GhPredictorPredictMatch\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17587,
+      "offset": 18518,
       "length": 30,
       "value": "\"GhPredictorEventKeypadClosed\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17680,
+      "offset": 18611,
       "length": 29,
       "value": "\"GhPredictorEventsListOpened\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 17898,
+      "offset": 18829,
       "length": 23,
       "value": "\"GhPredictorOpenEvents\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 18106,
+      "offset": 19037,
       "length": 31,
       "value": "\"GhPredictorAdvanceToNextEvent\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/Screens\/MainTab\/Predictions\/MatchDay\/Match\/MatchCardView.swift",
       "kind": "StringLiteral",
-      "offset": 18322,
+      "offset": 19253,
       "length": 35,
       "value": "\"GhPredictorEventsListCloseRequest\""
     },

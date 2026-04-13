@@ -67,6 +67,13 @@ extension predictor.Game : GamesLib.GameCard {
   @_Concurrency.MainActor @preconcurrency @objc dynamic public class func viewController(data: [Swift.String : Any]?) -> UIKit.UIViewController?
   #endif
 }
+extension predictor.Game : GamesLib.CompetitionGameCardView {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency public class func gameSwiftUI(data: [Swift.String : Any]?, gameId: Swift.String?, competition: Swift.Int?) -> some SwiftUICore.View
+  
+  #endif
+  public typealias GameScreen = @_opaqueReturnTypeOf("$s9predictor4GameC11gameSwiftUI4data0C2Id11competitionQrSDySSypGSg_SSSgSiSgtFZ", 0) __
+}
 
 
 extension UIKit.UIPickerView {
