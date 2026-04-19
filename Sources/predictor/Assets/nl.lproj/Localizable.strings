@@ -1,5 +1,5 @@
-"⚠ You’re missing 1 prediction for this matchday!" = "⚠ Je mist 1 voorspelling voor deze ronde!";
-"⚠ You’re missing 1 prediction! Your score so far:" = "⚠ Je mist 1 voorspelling! Jouw score tot nu toe:";
+"⚠ You’re missing 1 prediction for this matchday!" = "⚠️ Je mist 1 voorspelling voor deze ronde!";
+"⚠ You’re missing 1 prediction! Your score so far:" = "⚠️ Je mist 1 voorspelling! Jouw score tot nu toe:";
 "Wow! You correctly predicted 1 score 🙌🏻" = "Wow! Je hebt 1 uitslag correct voorspeld!";
 "You correctly predicted 1 result 🙌🏻" = "Je hebt 1 uitslag goed voorspeld";
 "Don’t miss a deadline!" = "Mis geen deadline!";
@@ -8,8 +8,8 @@
 "Play booster" = "Speel booster";
 "Predict now" = "Voorspel nu";
 "You haven’t played your 2x booster yet!" = "Je hebt je {2x} booster nog niet gespeeld!";
-"⚠ You’re missing {n} predictions for this matchday!" = "⚠ Je mist {n} voorspellingen voor deze ronde!";
-"⚠ You’re missing {n} predictions! Your score so far:" = "⚠ Je mist {n} voorspellingen! Je score tot nu toe:";
+"⚠ You’re missing {n} predictions for this matchday!" = "⚠️ Je mist {n} voorspellingen voor deze ronde!";
+"⚠ You’re missing {n} predictions! Your score so far:" = "⚠️ Je mist {n} voorspellingen! Je score tot nu toe:";
 "Don’t forget to play your booster this matchday!" = "Vergeet niet je booster in te zetten deze ronde!";
 "You’re too late to play this time.\n\nYou can still predict next matchday’s results!" = "Je bent te laat om deze ronde mee te doen. \n\nJe kan nog steeds de volgende rondes voorspellen!";
 "You’re too late to play this time.\n\nCome back when the next set of fixtures are out!" = "Je bent te laat om deze ronde mee te doen. \n\nKom terug als de volgende wedstrijden bekend zijn!";
@@ -56,7 +56,7 @@
 "Rank" = "Positie";
 "Points" = "Punten";
 "Didn't play" = "Niet voorspeld";
-"Not playing" = "Nog niet gespeeld";
+"Not playing" = "Nog niet voorspeld";
 "(You)" = "(Jij)";
 "No other members" = "Geen andere deelnemers";
 "members" = "deelnemers";
@@ -137,7 +137,7 @@
 "Coming soon" = "Komt binnenkort";
 "Coming soon... Predict Champions League results – and get points for first scorer!" = "Binnenkort... Voorspel de WK-uitslagen en scoor punten voor de eerste doelpuntenmaker!";
 "Predict every Champions League result – how many will you get right?" = "Voorspel elke uitslag van het WK - hoeveel ga jij er goed voorspellen?";
-"Start predicting" = "Start voorspellen";
+"Start predicting" = "Begin met voorspellen";
 "{n} missing" = "{n} ontbreken";
 "Complete predictions" = "Maak voorspellingen compleet";
 "Your live score for this matchday:" = "Jouw live score voor deze ronde:";
@@ -177,7 +177,7 @@
 "Matchday points" = "Punten ronde";
 "wins" = "zeges";
 "No prediction yet" = "Nog geen voorspelling";
-"draws" = "gelijke spelen";
+"draws" = "gelijk";
 "Never miss a prediction deadline" = "Mis nooit een deadline voor een voorspelling";
 "Turn on notifications" = "Zet meldingen aan";
 "Prediction saved" = "Voorspelling opgeslagen";
@@ -193,14 +193,14 @@
 "{b}x" = "{b}x";
 "Switch {2x} booster" = "Wissel {2x} booster";
 "Your predictions are all set!" = "Je voorspellingen staan klaar!";
-"Your predictions are all set – but don’t forget to play your booster!" = "Je voorspellingen staan klaar - maar vergeet niet je booster in te zetten!";
+"Your predictions are all set – but don’t forget to play your booster!" = "Je voorspellingen staan klaar - maar vergeet je booster niet in te zetten!";
 "You're missing {n} predictions" = "Je mist {n} voorspellingen";
 "You're missing 1 prediction" = "Je mist 1 voorspelling";
 "All events predicted" = "Alle gebeurtenissen voorspeld";
 "Predict {n} more events" = "Voorspel nog {n} gebeurtenissen";
 "Predict 1 more event" = "Voorspel nog 1 gebeurtenis";
-"Predict all events for this match to maximise your points!" = "Voorspel alle gebeurtenissen voor deze wedtrijd voor een maximaal aantal punten!";
-"Log in to start predicting" = "Log in om te beginnen met voorspellen";
+"Predict all events for this match to maximise your points!" = "Voorspel alle gebeurtenissen voor deze wedstrijd voor een maximaal aantal punten!";
+"Log in to start predicting" = "Log in om te voorspellen";
 "Login to see your predictions" = "Log in om je voorspellingen te zien";
 "Select player" = "Kies speler";
 "Double your score for 1 match" = "Verdubbel je score voor 1 wedstrijd";
@@ -215,7 +215,7 @@
 "Your score may change depending on the final result" = "Je score kan veranderen afhankelijk van het eindresultaat";
 "Don't forget your booster!" = "Vergeet je booster niet!";
 "Every matchday, double your points on one match." = "Verdubbel in elke ronde je score voor één wedstrijd.";
-"You’ve predicted all events for this match! What’s next?" = "Je hebt alles voorspeld voor deze wedstrijd!";
+"You’ve predicted all events for this match! What’s next?" = "Je hebt alles voorspeld voor deze wedstrijd! ";
 "Predict {home} v {away}" = "Voorspel {home} - {away}";
 "Your username will appear on public leaderboards" = "Je naam zal te zien zijn in de rankings";
 "Edit user name" = "Naam aanpassen";
