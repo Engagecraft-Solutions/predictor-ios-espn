@@ -1,0 +1,22 @@
+{
+  "data" : [
+    {
+      "name" : "ios_matchpredictor_localize_espnpredictor_localizable_nl",
+      "version" : "3",
+      "parameters" : {
+        "No first goalscorer" : "Geen eerste doelpuntenmaker",
+        "Match Predictor" : "ESPN WK Pool",
+        "Predict every Champions League result – how many will you get right?" : "Voorspel elke uitslag van het WK. Hoeveel voorspel jij er goed?",
+        "Predictor" : "ESPN WK Pool",
+        "Defenders" : "Verdedigers",
+        "It's been an amazing season - come back in September to start afresh!" : "Bedankt voor dit toernooi - doe komend seizoen ook mee met ESPN Fantasy Voetbal!",
+        "Check out my predictions. Share pre-matchday" : "Bekijk mijn voorspellingen voor {MD}! Kan jij het beter? Voorspel de uitslagen om erachter te komen! #ESPNWKPool",
+        "Midfielders" : "Middenvelders",
+        "This season, predict Champions League results – and climb the leaderboards!" : "Voorspel de uitslagen van het WK en stijg op de ranglijst!",
+        "Forwards" : "Aanvallers",
+        "Check out my predictions. Share post-matchday" : "Check mijn WK-score voor {MD}! Kan jij het beter? Voorspel nu om erachter te komen! #ESPNWKPool",
+        "Goalkeepers" : "Keepers"
+      }
+    }
+  ]
+}
