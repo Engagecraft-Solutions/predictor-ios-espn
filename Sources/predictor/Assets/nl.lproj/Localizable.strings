@@ -165,8 +165,8 @@
 "Go to settings" = "Ga naar instellingen";
 "Check out my predictions. Follow the link below to see my picks and make your own. Let’s see who gets the highest score!" = "Bekijk mijn voorspellingen. Bekijk de link hieronder voor mijn voorspellingen en maak die van jou. We zullen zien we het best scoort!";
 "You’re all set for the next matchday – good luck!" = "Je bent helemaal klaar voor de komende ronde - succes!";
-"See what {n} friends predicted" = "Bekijk wat {n} vrienden voorspelden";
-"See what {friend_name} predicted" = "Bekijk wat {friend_name} voorspelde";
+"See what {n} friends predicted" = "Bekijk wat {n} vrienden voorspelden >";
+"See what {friend_name} predicted" = "Bekijk wat {friend_name} voorspelde >";
 "{n} friends have made predictions" = "{n} vrienden hebben voorspellingen gemaakt";
 "{friend_name} has made a prediction" = "{friend_name} heeft een voorspelling gemaakt";
 "Your friends' predictions" = "Voorspellingen van vrienden";

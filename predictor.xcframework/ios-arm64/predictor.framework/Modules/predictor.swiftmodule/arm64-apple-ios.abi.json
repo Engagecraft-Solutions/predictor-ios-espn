@@ -343,38 +343,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
             "name": "CompetitionGameCard",
             "printedName": "CompetitionGameCard",
             "usr": "c:@M@GamesLib@objc(pl)CompetitionGameCard",
             "mangledName": "$s8GamesLib19CompetitionGameCardP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "GameCard",
-            "printedName": "GameCard",
-            "usr": "c:@M@GamesLib@objc(pl)GameCard",
-            "mangledName": "$s8GamesLib8GameCardP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
           },
           {
             "kind": "Conformance",
@@ -385,17 +357,10 @@
           },
           {
             "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -406,13 +371,6 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Hashable",
             "printedName": "Hashable",
             "usr": "s:SH",
@@ -420,10 +378,52 @@
           },
           {
             "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
             "name": "UITraitChangeObservable",
             "printedName": "UITraitChangeObservable",
             "usr": "s:5UIKit23UITraitChangeObservableP",
             "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "GameCard",
+            "printedName": "GameCard",
+            "usr": "c:@M@GamesLib@objc(pl)GameCard",
+            "mangledName": "$s8GamesLib8GameCardP"
           }
         ]
       },
@@ -1241,10 +1241,45 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            "name": "CompetitionGameCard",
+            "printedName": "CompetitionGameCard",
+            "usr": "c:@M@GamesLib@objc(pl)CompetitionGameCard",
+            "mangledName": "$s8GamesLib19CompetitionGameCardP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
           },
           {
             "kind": "Conformance",
@@ -1252,6 +1287,55 @@
             "printedName": "_KeyValueCodingAndObservingPublishing",
             "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
             "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "GameCard",
+            "printedName": "GameCard",
+            "usr": "c:@M@GamesLib@objc(pl)GameCard",
+            "mangledName": "$s8GamesLib8GameCardP"
           },
           {
             "kind": "Conformance",
@@ -1281,90 +1365,6 @@
             ],
             "usr": "s:8GamesLib23CompetitionGameCardViewP",
             "mangledName": "$s8GamesLib23CompetitionGameCardViewP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "GameCard",
-            "printedName": "GameCard",
-            "usr": "c:@M@GamesLib@objc(pl)GameCard",
-            "mangledName": "$s8GamesLib8GameCardP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CompetitionGameCard",
-            "printedName": "CompetitionGameCard",
-            "usr": "c:@M@GamesLib@objc(pl)CompetitionGameCard",
-            "mangledName": "$s8GamesLib19CompetitionGameCardP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "SendableMetatype",
-            "printedName": "SendableMetatype",
-            "usr": "s:s16SendableMetatypeP",
-            "mangledName": "$ss16SendableMetatypeP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       },
@@ -4472,6 +4472,16 @@
       },
       {
         "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "predictor",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -6384,52 +6394,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Copyable",
             "printedName": "Copyable",
             "usr": "s:s8CopyableP",
             "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
           },
           {
             "kind": "Conformance",
@@ -6440,10 +6408,52 @@
           },
           {
             "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
             "name": "Hashable",
             "printedName": "Hashable",
             "usr": "s:SH",
             "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -6461,17 +6471,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "UITraitChangeObservable",
             "printedName": "UITraitChangeObservable",
             "usr": "s:5UIKit23UITraitChangeObservableP",
             "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
           }
         ]
       },
@@ -6538,52 +6548,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Copyable",
             "printedName": "Copyable",
             "usr": "s:s8CopyableP",
             "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
           },
           {
             "kind": "Conformance",
@@ -6594,10 +6562,52 @@
           },
           {
             "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
             "name": "Hashable",
             "printedName": "Hashable",
             "usr": "s:SH",
             "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -6615,17 +6625,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "UITraitChangeObservable",
             "printedName": "UITraitChangeObservable",
             "usr": "s:5UIKit23UITraitChangeObservableP",
             "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
           }
         ]
       }
@@ -6784,20 +6794,20 @@
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/GameManager\/NavigationManagerRemoteSettingsExtension.swift",
       "kind": "StringLiteral",
       "offset": 1294,
-      "length": 2914,
-      "value": "\" {\n     \"data\": [\n         {\n             \"name\": \"ios-matchpredictor-settings\",\n             \"version\": \"1\",\n             \"parameters\": {\n                 \"disable_remote_translations\": {\n                     \"uclpredictor\": false,\n                     \"uelpredictor\": false,\n                     \"ueclpredictor\": false,\n                     \"uwclpredictor\": false,\n                     \"uylpredictor\": false,\n                     \"europredictor\": false\n                 },\n                \"espnpredictor\": {\n                    \"splash_screen_timeout\": 1,\n                    \"disable_tutorial_screen\": true,\n                    \"rules_link_tag\":\"PREDICTOR.RULES\",\n                    \"rules_page_link\": \"\",\n                    \"menu_disable\": {\n                        \"leagues\": true,\n                        \"achievements\": true,\n                        \"scoringsystem\": false,\n                        \"rules\": false\n                    },\n                    \"predictions_screen_disable\": {\n                        \"leagues_card\": false,\n                        \"notifications_card\": true\n                    },\n                    \"override_sponsor_with_banner\": false,\n                    \"exclusive_sponsor_name\": \"\",\n                    \"rules_link\":{\n                        \"en\": \"\"\n                    }\n                },\n                \"uclpredictor\": {\n                    \"rules_page_link\": \"https:\/\/gaming{prefix}.uefa.com\/{language}\/{gameid}\/p\/rules\",\n                    \"menu_disable\": {\n                        \"leagues\": false,\n                        \"achievements\": false,\n                        \"scoringsystem\": false,\n                        \"rules\": false\n                    },\n                    \"predictions_screen_disable\": {\n                        \"leagues_card\": false,\n                        \"notifications_card\": false\n                    },\n                    \"override_sponsor_with_banner\": false,\n                    \"exclusive_sponsor_name\": \"\",\n                    \"rules_link\":{\n                        \"en\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15df8707b234-9cebd98d051d-1000\",\n                        \"es\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfbff37831-9487ba2dc9c1-1000\",\n                        \"pt\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfbe8cf9b9-fd42e7c25a9f-1000\",\n                        \"fr\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfcc17dae8-5878089f6025-1000\",\n                        \"it\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfb9f16a2e-e2e32b49196a-1000\",\n                        \"ru\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfc0be0618-a41b2bc681a9-1000\",\n                        \"de\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15e1313ff22b-08fcc1b07566-1000\"\n                    }\n                }\n             }\n         }\n     ]\n }\""
+      "length": 3130,
+      "value": "\" {\n     \"data\": [\n         {\n             \"name\": \"ios-matchpredictor-settings\",\n             \"version\": \"1\",\n             \"parameters\": {\n                 \"disable_remote_translations\": {\n                     \"uclpredictor\": false,\n                     \"uelpredictor\": false,\n                     \"ueclpredictor\": false,\n                     \"uwclpredictor\": false,\n                     \"uylpredictor\": false,\n                     \"europredictor\": false\n                 },\n                \"espnpredictor\": {\n                    \"splash_screen_timeout\": 1,\n                    \"disable_tutorial_screen\": true,\n                    \"rules_link_tag\":\"PREDICTOR.RULES\",\n                    \"rules_page_link\": \"\",\n                    \"menu_disable\": {\n                        \"leagues\": true,\n                        \"achievements\": true,\n                        \"scoringsystem\": false,\n                        \"rules\": false\n                    },\n                    \"predictions_screen_disable\": {\n                        \"leagues_card\": false,\n                        \"notifications_card\": true\n                    },\n                    \"custom_root_navigation_bar\": {\n                     \"image\": \"rootNavigationBarImage\",\n                      \"width\": 180,\n                       \"alignment\": \"principal\"\n                     },\n                    \"override_sponsor_with_banner\": false,\n                    \"exclusive_sponsor_name\": \"\",\n                    \"rules_link\":{\n                        \"en\": \"\"\n                    }\n                },\n                \"uclpredictor\": {\n                    \"rules_page_link\": \"https:\/\/gaming{prefix}.uefa.com\/{language}\/{gameid}\/p\/rules\",\n                    \"menu_disable\": {\n                        \"leagues\": false,\n                        \"achievements\": false,\n                        \"scoringsystem\": false,\n                        \"rules\": false\n                    },\n                    \"predictions_screen_disable\": {\n                        \"leagues_card\": false,\n                        \"notifications_card\": false\n                    },\n                    \"override_sponsor_with_banner\": false,\n                    \"exclusive_sponsor_name\": \"\",\n                    \"rules_link\":{\n                        \"en\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15df8707b234-9cebd98d051d-1000\",\n                        \"es\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfbff37831-9487ba2dc9c1-1000\",\n                        \"pt\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfbe8cf9b9-fd42e7c25a9f-1000\",\n                        \"fr\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfcc17dae8-5878089f6025-1000\",\n                        \"it\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfb9f16a2e-e2e32b49196a-1000\",\n                        \"ru\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15dfc0be0618-a41b2bc681a9-1000\",\n                        \"de\": \"https:\/\/www.uefa.com\/uefachampionsleague\/news\/0278-15e1313ff22b-08fcc1b07566-1000\"\n                    }\n                }\n             }\n         }\n     ]\n }\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/GameManager\/NavigationManagerRemoteSettingsExtension.swift",
       "kind": "StringLiteral",
-      "offset": 4252,
+      "offset": 4468,
       "length": 29,
       "value": "\"ios-matchpredictor-settings\""
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Game\/GameManager\/NavigationManagerRemoteSettingsExtension.swift",
       "kind": "IntegerLiteral",
-      "offset": 4474,
+      "offset": 4690,
       "length": 4,
       "value": "3600"
     },
@@ -8536,6 +8546,13 @@
       "offset": 3692,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Controls\/RootNavigationBarTitleModifier.swift",
+      "kind": "BooleanLiteral",
+      "offset": 229,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/var\/folders\/5y\/wk5zybnd0xg4j2wnh01dzs_40000gn\/T\/predictor\/Sources\/Classes\/Helpers\/Controls\/RoundRect.swift",
